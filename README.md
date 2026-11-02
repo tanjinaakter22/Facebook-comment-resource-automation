@@ -1,3 +1,5 @@
+<img width="576" height="1280" alt="6287586651538134365_121" src="https://github.com/user-attachments/assets/13123df5-19e6-462e-a27f-847eba99c1e9" />
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/f62c74bc-69d1-44ed-b3ff-6937dab65788" />
 # 🤖 AI-Powered Facebook Comment Reply & Resource Automation
 
 An end-to-end **AI-powered Facebook Comment-to-Resource Automation** built with **n8n, Google Gemini, Meta Graph API, Messenger API, and Google Sheets**.
