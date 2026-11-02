@@ -294,6 +294,8 @@ Workflow Screenshot
 
 <img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e317c588-0f80-4511-8ecd-bf980e915762" />
 <img width="576" height="1280" alt="6287586651538134365_121" src="https://github.com/user-attachments/assets/0b768921-787f-4d88-850d-d91adc90266f" />
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/0a6e66b1-ec9a-44c7-affb-d801a85355fd" />
+
 
 
 
