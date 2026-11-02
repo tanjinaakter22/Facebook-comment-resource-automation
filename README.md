@@ -291,26 +291,8 @@ The following should always be stored securely inside n8n credentials or environ
 
 ---
 
-## 📸 Workflow Preview
+<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/e317c588-0f80-4511-8ecd-bf980e915762" />
 
-Add your n8n workflow screenshot here:
-
-```text
-![Workflow Overview](screenshots/workflow-overview.png)
-```
-
-You can create a `screenshots` folder inside the repository and upload your workflow screenshot there.
-
-Recommended screenshots:
-
-1. `workflow-overview.png`
-2. `ai-agent.png`
-3. `true-branch-test.png`
-4. `false-branch-test.png`
-5. `messenger-result.png`
-6. `facebook-public-reply.png`
-
----
 
 ## 📁 Suggested Repository Structure
 
